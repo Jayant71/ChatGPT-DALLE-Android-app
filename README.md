@@ -1,4 +1,4 @@
-# contentgen
+# Social Media Content Generator
 
 Social Media Content Generator
 
